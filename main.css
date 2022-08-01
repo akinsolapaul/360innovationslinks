@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Space Grotesk', sans-serif; 
+    background-color: red;
+    text-align: center;
+    padding-top: 10rem;
+    color: #fff;
+}
+
+h1  {
+    font-size: 6rem;
+}
+
+
+.sorry   {
+    font-size: 4rem;
+}
+
+.contactus    {
+    font-size: 3rem;
+}
