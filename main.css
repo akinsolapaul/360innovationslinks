@@ -23,6 +23,10 @@ h1  {
     font-size: 6rem;
 }
 
+h2  {
+    font-size: 3rem;
+}
+
 
 .sorry   {
     font-size: 4rem;
@@ -30,4 +34,10 @@ h1  {
 
 .contactus    {
     font-size: 3rem;
+}
+
+.address,
+.email,
+.phone  {
+    font-size: 1.5rem;
 }
